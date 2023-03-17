@@ -1,0 +1,43 @@
+{
+  "teaching_tasks" : [ {
+    "course" : "Math",
+    "task_requirement" : "Need a good teacher"
+  }, {
+    "course" : "English",
+    "task_requirement" : "Need a very good teacher"
+  }, {
+    "course" : "Engineering",
+    "task_requirement" : "No"
+  }, {
+    "course" : "ComputerScience1",
+    "task_requirement" : "Need a computer"
+  }, {
+    "course" : "Math",
+    "task_requirement" : "Hava fun by yourself"
+  }, {
+    "course" : "Chinese",
+    "task_requirement" : "Read some books"
+  }, {
+    "course" : "1",
+    "task_requirement" : "1"
+  } ],
+  "training_plan" : [ {
+    "teacher_name" : "Bob",
+    "course" : "Math"
+  }, {
+    "teacher_name" : "Eric",
+    "course" : "English"
+  }, {
+    "teacher_name" : "Peter",
+    "course" : "ComputerScience1"
+  }, {
+    "teacher_name" : "Jason",
+    "course" : "Math"
+  }, {
+    "teacher_name" : "Maven",
+    "course" : "Chinese"
+  }, {
+    "teacher_name" : "w",
+    "course" : "w"
+  } ]
+}
